@@ -1,0 +1,3 @@
+Contact: https://github.com/Tadas380/website-security-checker/issues
+Expires: 2027-12-31T23:59:59Z
+Preferred-Languages: en, lt

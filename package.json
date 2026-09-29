@@ -1,0 +1,13 @@
+{
+  "name": "website-security-checker",
+  "version": "1.0.0",
+  "description": "Passive website security scanner with a grade, plain-language fixes and a PDF report. Zero dependencies.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" },
+  "author": "Tadas Kaziunas (https://github.com/Tadas380)",
+  "license": "MIT"
+}
