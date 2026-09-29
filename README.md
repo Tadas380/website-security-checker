@@ -93,4 +93,4 @@ On any Node host, e.g. **Render** (free tier): create a Web Service from this re
 
 ---
 
-Built by **Tadas Kaziunas** (Kaunas, Lithuania), graduate in Cybersecurity and Systems · [github.com/Tadas380](https://github.com/Tadas380) · MIT license
+Built by **Tadas Kaziunas** 
