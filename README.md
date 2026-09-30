@@ -8,7 +8,7 @@ A passive security scanner for websites. Enter a domain and within seconds you g
 
 It checks what attackers look at first: HTTPS and the certificate, security headers, publicly exposed files (`.git`, `.env`), email spoofing protection (SPF/DMARC), software version leaks and cookie flags.
 
-**Live demo:** [_add your Render link here_](https://website-security-checker-o8s7.onrender.com)
+**Live demo:** [DEMO](https://website-security-checker-o8s7.onrender.com)
 
 ![Scan result for a deliberately misconfigured test site](docs/results.png)
 
